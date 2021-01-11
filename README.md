@@ -1,25 +1,27 @@
 # Password_Keeper-1.0
-Password Keeper is a simple Password keeping program
-this is a simple Password Keeper using Python Script
+## Password Keeper is a simple Password keeping program
+  This is a simple Password Keeper using Python Script
 
-# Python Version used
+# Python Version 
   Python 3
-# LIBRARY USED
-1.sys
-2.pyperclip
+# Library 
+  1. __sys__
+  2. __pyperclip__
 
-# STEPS
-1.CODE the program in any text editor or IDE
-2.save it with pw.py
-3.to make a windows script
-    open notepa and paste this code 
-    @py.exe C:\Python34\pw.py %*
-    @pause
-4.save it as pw.bat
+# Steps to run
+  1. Copy the program in any text editor or IDE
+  2. Save it with __pw.py__
+  3. To make it a windows script
+     open notepa and paste this code 
+     
+     <code>@py.exe C:\Python34\pw.py %*
+     @pause</code>
+  4. save it as __pw.bat__
 
-# CONCLUSION
-This is a simple python 3 mini project, I hope you liked it, Plug and play! :)
+# Conclusion
+  - This is a simple Python 3 project.
+  - The implimentaion is not secure
 
-# REFERENCE
-Automate the boaring stuff with Python
+# Reference
+  - Automate the boaring stuff with Python
 
